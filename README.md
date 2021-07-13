@@ -1,11 +1,10 @@
-# reading-notes
-### When someone has a **growth mindset** they believe that their abilities *can be developed by learning and doing effort*.
+##### I'm Bahar Owainat
+ ##### 19 years old
+  ##### I'm a second year software engineering student at ASAC
+  ##### I chose this major to follow my passion in the field of technology
 
-### On the other hand **fixed mindset** is the opposite, when someone has a fixed mindset they believe *that people were born talented and smart and there is no chance they could  reach their level*.
 
-![growth mindset vs fixed mindset ](https://www.techtello.com/wp-content/uploads/2020/06/fixed-mindset-vs-growth-mindset-chart.png)
-
-### Three things to keep my self in a growth mindset
-1. Practice mindfulness
-2. Trust yourself
-3. Embrace failure
+|   name   | link        |  
+|----------|:-------------
+| growthmindset | [go to growth mindset](growthmindset)  
+|read01  |   [go to read01 ](read01)
