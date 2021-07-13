@@ -8,3 +8,4 @@
 |----------|:-------------
 | growthmindset | [go to growth mindset](https://bashar-owainat.github.io/reading-notes/growthmindset)  
 |read01  |   [go to read01 ](https://bashar-owainat.github.io/reading-notes/read01)
+|read02|[go to read02 ](https://bashar-owainat.github.io/reading-notes/read02)
