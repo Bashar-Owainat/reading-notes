@@ -6,5 +6,5 @@
 
 |   name   | link        |  
 |----------|:-------------
-| growthmindset | [go to growth mindset](growthmindset)  
-|read01  |   [go to read01 ](read01)
+| growthmindset | [go to growth mindset](https://bashar-owainat.github.io/reading-notes/growthmindset)  
+|read01  |   [go to read01 ](https://bashar-owainat.github.io/reading-notes/read01)
