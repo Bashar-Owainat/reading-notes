@@ -7,4 +7,4 @@
 2. genetrating HTML
 3. validating user's input
 
-![](https://www.bryntum.com/wp-content/uploads/2020/02/js-logo.png) 
+![](https://www.bryntum.com/wp-content/uploads/2020/02/js-logo.png ) 
