@@ -13,3 +13,4 @@
 |read04|[go to read04](https://bashar-owainat.github.io/reading-notes/read04)
 |read05|[go to read05](https://bashar-owainat.github.io/reading-notes/read05)
 |read06|[go to read06](https://bashar-owainat.github.io/reading-notes/read06)
+|read07|[go to read07](https://bashar-owainat.github.io/reading-notes/read07)
