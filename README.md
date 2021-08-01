@@ -4,7 +4,9 @@
   ##### I chose this major to follow my passion in the field of technology
 
 
-|   name   | link        |  
+## 102 reading notes
+
+|   Topic   | link        |  
 |----------|:-------------
 | growthmindset | [go to growth mindset](https://bashar-owainat.github.io/reading-notes/growthmindset)  
 |read01  |   [go to read01 ](https://bashar-owainat.github.io/reading-notes/read01)
@@ -14,3 +16,9 @@
 |read05|[go to read05](https://bashar-owainat.github.io/reading-notes/read05)
 |read06|[go to read06](https://bashar-owainat.github.io/reading-notes/read06)
 |read07|[go to read07](https://bashar-owainat.github.io/reading-notes/read07)
+
+##  201 reading notes
+| Topic  |  link  |
+|---------|:---------
+| class01 | [go to class01](https://bashar-owainat.github.io/reading-notes/class01) 
+
