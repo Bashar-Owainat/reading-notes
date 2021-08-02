@@ -21,4 +21,5 @@
 | Topic  |  link  |
 |---------|:---------
 | class01 | [go to class01](https://bashar-owainat.github.io/reading-notes/class01) 
+|class02 | [go to class02 ](https://bashar-owainat.github.io/reading-notes/class02)
 
