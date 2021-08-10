@@ -27,3 +27,4 @@
 |class05|[go to class05](https://bashar-owainat.github.io/reading-notes/class05)
 |class06|[go to class06](https://bashar-owainat.github.io/reading-notes/class06)
 |class07|[go to class07](https://bashar-owainat.github.io/reading-notes/class07)
+|class08|[go to class08](https://bashar-owainat.github.io/reading-notes/class08)
