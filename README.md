@@ -1,7 +1,7 @@
-##### I'm Bahar Owainat
- ##### 19 years old
-  ##### I'm a second year software engineering student at ASAC
-  ##### I chose this major to follow my passion in the field of technology
+- I'm Bahar Owainat
+- 19 years old
+- I'm a second year software engineering student at ASAC
+- I chose this major to follow my passion in the field of technology
 
 
 ## 102 reading notes
@@ -29,3 +29,4 @@
 |class07|[go to class07](https://bashar-owainat.github.io/reading-notes/class07)
 |class08|[go to class08](https://bashar-owainat.github.io/reading-notes/class08)
 |class09|[go to class09](https://bashar-owainat.github.io/reading-notes/class09)
+|class10|[go to class10](https://bashar-owainat.github.io/reading-notes/class10)
