@@ -32,3 +32,4 @@
 |class10|[go to class10](https://bashar-owainat.github.io/reading-notes/class10)
 |class11|[go to class11](https://bashar-owainat.github.io/reading-notes/class11)
 |class12|[go to class12](https://bashar-owainat.github.io/reading-notes/class12)
+|class13|[go to class13](https://bashar-owainat.github.io/reading-notes/class13)
