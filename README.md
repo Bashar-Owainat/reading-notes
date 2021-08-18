@@ -34,4 +34,4 @@
 |class12|[go to class12](https://bashar-owainat.github.io/reading-notes/class12)
 |class13|[go to class13](https://bashar-owainat.github.io/reading-notes/class13)
 |class14|[go to class14](https://bashar-owainat.github.io/reading-notes/class14)
-|class15|[go to class15](https://bashar-owainat.github.io/reading-notes/class15)
+|class15|[go to class15](https://bashar-owainat.github.io/reading-notes/class14b)
