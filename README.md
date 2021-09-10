@@ -1,10 +1,12 @@
-- I'm Bahar Owainat
-- 19 years old
+# Reading Notes
+- I'm **Bahar Owainat**
+- *19 years old*
 - I'm a second year software engineering student at ASAC
 - I chose this major to follow my passion in the field of technology
 
+This site includes the readings I did during the code Fellows training course
 
-## 102 reading notes
+## Code 102 - Intro to Software Development
 
 |   Topic   | link        |  
 |----------|:-------------
@@ -17,7 +19,7 @@
 |read06|[go to read06](https://bashar-owainat.github.io/reading-notes/read06)
 |read07|[go to read07](https://bashar-owainat.github.io/reading-notes/read07)
 
-##  201 reading notes
+## Code 201 - Foundations of Software Development
 | Topic  |  link  |
 |---------|:---------
 |class01|[go to class01](https://bashar-owainat.github.io/reading-notes/class01)
@@ -35,3 +37,5 @@
 |class13|[go to class13](https://bashar-owainat.github.io/reading-notes/class13)
 |class14|[go to class14](https://bashar-owainat.github.io/reading-notes/class14)
 |class14b|[go to class14b](https://bashar-owainat.github.io/reading-notes/class14b)
+
+## Code 301 - Intermediate Software Development
