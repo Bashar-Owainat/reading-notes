@@ -47,3 +47,4 @@ This site includes the readings I did during the code Fellows training course
 |ReactComponentLifeCycle|[go to ReactComponentLifeCycle](https://bashar-owainat.github.io/reading-notes/ReactComponentLifecycle)
 |ListsAndKeys|[got to ListsAndKeys](https://bashar-owainat.github.io/reading-notes/listsAndKeys)
 |ReactAndForms|[go to ReactAndForms](https://bashar-owainat.github.io/reading-notes/ReactAndForms)
+|thinking in react|[go to thinking in react ](https://bashar-owainat.github.io/reading-notes/ThinkingInReact)
