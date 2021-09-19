@@ -48,4 +48,4 @@ This site includes the readings I did during the code Fellows training course
 |ListsAndKeys|[got to ListsAndKeys](https://bashar-owainat.github.io/reading-notes/listsAndKeys)
 |ReactAndForms|[go to ReactAndForms](https://bashar-owainat.github.io/reading-notes/ReactAndForms)
 |higherOrderComponent|[go to higherOrderComponent ](https://bashar-owainat.github.io/reading-notes/higherOrderComponent)
-|Nodes|[go to Nodes](https://bashar-owainat.github.io/reading-notes/Nodes)
+|Nodes|[go to Nodes](https://bashar-owainat.github.io/reading-notes/Node)
