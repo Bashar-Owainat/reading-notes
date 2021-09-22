@@ -51,3 +51,4 @@ This site includes the readings I did during the code Fellows training course
 |Nodes|[go to Nodes](https://bashar-owainat.github.io/reading-notes/Node)
 |REST|[got to REST](https://bashar-owainat.github.io/reading-notes/REST)
 |APIs|[go to APIs](https://bashar-owainat.github.io/reading-notes/APIs)
+|Functionl Programming|[go to Functionl Programming](https://bashar-owainat.github.io/reading-notes/functionalProgramming)
