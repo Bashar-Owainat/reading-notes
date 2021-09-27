@@ -1,0 +1,6 @@
+# MongoAndMongoose
+In terms of Node. js, mongodb is the native driver for interacting with a mongodb instance and mongoose is an Object modeling tool for MongoDB. Mongoose is built on top of the MongoDB driver to provide programmers with a way to model their data.
+
+MongoDB Schema Validation makes it possible to easily enforce a schema against your MongoDB database, while maintaining a high degree of flexibility, giving you the best of both worlds. In the past, the only way to enforce a schema against a MongoDB collection was to do it at the application level using an ODM like Mongoose, but that posed significant challenges for developers.
+
+Mongoose is a Node.js based Object Data Modeling (ODM) library for MongoDB. It is akin to an Object Relational Mapper (ORM) such as SQLAlchemy for traditional SQL databases. The problem that Mongoose aims to solve is allowing developers to enforce a specific schema at the application layer. In addition to enforcing a schema, Mongoose also offers a variety of hooks, model validation, and other features aimed at making it easier to work with MongoDB.
