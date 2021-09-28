@@ -55,4 +55,5 @@ This site includes the readings I did during the code Fellows training course
 |INMemoryBD|[go to IN Memory DB](https://bashar-owainat.github.io/reading-notes/inMemoryDB)
 |OAuth|[go to OAuth](https://bashar-owainat.github.io/reading-notes/OAuth)
 |MongoAndMongoose|[go to MongoAndMongoose](https://bashar-owainat.github.io/reading-notes/MongoAndMongoose)
+|CRUD|[go to CRUD](https://bashar-owainat.github.io/reading-notes/CRUD)
 
