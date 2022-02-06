@@ -1,7 +1,7 @@
 # Reading Notes
 - I'm **Bahar Owainat**
-- *19 years old*
-- I'm a second year software engineering student at ASAC
+- *20 years old*
+- I'm a software engineering student at ASAC
 - I chose this major to follow my passion in the field of technology
 
 This site includes the readings I did during the code Fellows training course
@@ -57,3 +57,8 @@ This site includes the readings I did during the code Fellows training course
 |MongoAndMongoose|[go to MongoAndMongoose](https://bashar-owainat.github.io/reading-notes/MongoAndMongoose)
 |CRUD|[go to CRUD](https://bashar-owainat.github.io/reading-notes/CRUD)
 
+## Code 401 - Advanced Software Development (.NET)
+
+|Topic|link|
+|-----|-----|
+|good-developer-mindset|(https://bashar-owainat.github.io/reading-notes/401/good-developer-mindset)|
