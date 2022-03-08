@@ -8,8 +8,8 @@ This site includes the readings I did during the code Fellows training course
 
 ## Code 102 - Intro to Software Development
 
-|   Topic   | link        |  
-|----------|:-------------
+| Topic| link     |  
+|---------|:---------
 | growthmindset | [go to growth mindset](https://bashar-owainat.github.io/reading-notes/102/growthmindset)  
 |read01  |   [go to read01 ](https://bashar-owainat.github.io/reading-notes/102/read01)
 |read02|[go to read02 ](https://bashar-owainat.github.io/reading-notes/102/read02)
@@ -59,7 +59,7 @@ This site includes the readings I did during the code Fellows training course
 
 ## Prep course (.Net)
 | Topic | link |
-|-------|:-------
+|---------|:---------
 |good-developer-mindset|[go to good-developer-mindset](https://bashar-owainat.github.io/reading-notes/401/good-developer-mindset)
 
 ## Code 102 - Intro to Software Development (.NET)
