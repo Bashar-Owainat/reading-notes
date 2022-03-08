@@ -66,20 +66,23 @@ This site includes the readings I did during the code Fellows training course
 
 |Topic|link|
 |-----|-----|
+||
 
 ## Code 201 - Foundations of Software Development (.NET)
 
 |Topic|link|
 |-----|-----|
+||
 
 ## Code 301 - Intermediate Software Development (.NET)
 
 |Topic|link|
 |-----|-----|
-
+||
 
 ## Code 401 - Advanced Software Development (.NET)
 
 |Topic|link|
 |-----|-----|
+||
 
