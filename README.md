@@ -1,7 +1,7 @@
 # Reading Notes
 - I'm **Bahar Owainat**
 - *20 years old*
-- I'm a software engineering student at ASAC
+- I have a BTEC certificate in software engineering from ASAC
 - I chose this major to follow my passion in the field of technology
 
 This site includes the readings I did during the code Fellows training course
