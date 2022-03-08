@@ -20,7 +20,7 @@ This site includes the readings I did during the code Fellows training course
 |read07|[go to read07](https://bashar-owainat.github.io/reading-notes/102/read07)
 
 ## Code 201 - Foundations of Software Development
-| Topic  |  link  |
+| Topic  |  link      |
 |---------|:---------
 |class01|[go to class01](https://bashar-owainat.github.io/reading-notes/201/class01)
 |class02|[go to class02](https://bashar-owainat.github.io/reading-notes/201/class02)
@@ -59,30 +59,20 @@ This site includes the readings I did during the code Fellows training course
 
 ## Prep course (.Net)
 |Topic|link|
-|-----|-----|
-|good-developer-mindset|[go to good-developer-mindset](https://bashar-owainat.github.io/reading-notes/401/good-developer-mindset)|
+|-----|:-----
+|good-developer-mindset|[go to good-developer-mindset](https://bashar-owainat.github.io/reading-notes/401/good-developer-mindset)
 
 ## Code 102 - Intro to Software Development (.NET)
 
-|Topic|link|
-|-----|-----|
-||
 
 ## Code 201 - Foundations of Software Development (.NET)
 
-|Topic|link|
-|-----|-----|
-||
+
 
 ## Code 301 - Intermediate Software Development (.NET)
 
-|Topic|link|
-|-----|-----|
-||
+
 
 ## Code 401 - Advanced Software Development (.NET)
 
-|Topic|link|
-|-----|-----|
-||
 
