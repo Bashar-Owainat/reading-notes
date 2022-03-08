@@ -58,8 +58,8 @@ This site includes the readings I did during the code Fellows training course
 |CRUD|[go to CRUD](https://bashar-owainat.github.io/reading-notes/301/CRUD)
 
 ## Prep course (.Net)
-|Topic|link|
-|-----|:-----
+| Topic | link |
+|-------|:-------
 |good-developer-mindset|[go to good-developer-mindset](https://bashar-owainat.github.io/reading-notes/401/good-developer-mindset)
 
 ## Code 102 - Intro to Software Development (.NET)
