@@ -45,9 +45,31 @@ By using JOIN we can combine row data separate tables using a unique key.
 Examples:
 SELECT * FROM Boxoffice inner join movies on movies.id = Boxoffice.Movie_id;
 
+##  some examples on operations on tables
+- delete FROM movies where year < 2005;
+- UPDATE movies SET director = "John Lasseter" WHERE id = 2;
+- INSERT INTO movies VALUES (4, "Toy Story 4", "El Directore", 2015, 90);
+
+- CREATE TABLE Database (
+    Name TEXT,
+    Version FLOAT,
+    Download_count INTEGER
+);
+
+- DROP TABLE BoxOffice;
+
+
 ![exercise screenshot](./sqlSolutions/exercise1.png)
 ![exercise screenshot](./sqlSolutions/exercise2.png)
 ![exercise screenshot](./sqlSolutions/exercise3.png)
 ![exercise screenshot](./sqlSolutions/exercise4.png)
 ![exercise screenshot](./sqlSolutions/review1.png)
 ![exercise screenshot](./sqlSolutions/exercise6.png)
+![exercise screenshot](./sqlSolutions/Screenshot%20(343).png)
+![exercise screenshot](./sqlSolutions/Screenshot%20(344).png)
+![exercise screenshot](./sqlSolutions/Screenshot%20(345).png)
+![exercise screenshot](./sqlSolutions/Screenshot%20(346).png)
+![exercise screenshot](./sqlSolutions/Screenshot%20(347).png)
+![exercise screenshot](./sqlSolutions/Screenshot%20(348).png)
+
+
