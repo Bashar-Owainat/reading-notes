@@ -64,7 +64,9 @@ This site includes the readings I did during the code Fellows training course
 |good-developer-mindset|[go to good-developer-mindset](https://bashar-owainat.github.io/reading-notes/dotNet/good-developer-mindset)
 
 ## Code 102 - Intro to Software Development (.NET)
-
+| Topic  | link |
+|---------|:---------
+|Debugging|[go to Debugging](https://bashar-owainat.github.io/reading-notes/dotNet/debugging)
 
 ## Code 201 - Foundations of Software Development (.NET)
 
