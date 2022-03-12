@@ -45,3 +45,9 @@ By using JOIN we can combine row data separate tables using a unique key.
 Examples:
 SELECT * FROM Boxoffice inner join movies on movies.id = Boxoffice.Movie_id;
 
+![exercise screenshot](./sqlSolutions/exercise1.png)
+![exercise screenshot](./sqlSolutions/exercise2.png)
+![exercise screenshot](./sqlSolutions/exercise3.png)
+![exercise screenshot](./sqlSolutions/exercise4.png)
+![exercise screenshot](./sqlSolutions/review1.png)
+![exercise screenshot](./sqlSolutions/exercise6.png)
