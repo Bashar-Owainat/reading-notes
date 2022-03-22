@@ -69,6 +69,7 @@ This site includes the readings I did during the code Fellows training course
 |Debugging|[go to Debugging](https://bashar-owainat.github.io/reading-notes/dotNet/debugging)
 |Unit-tests-and-ReadMe|[go to Unit test and ReadMe](https://bashar-owainat.github.io/reading-notes/dotNet/unitTestAndReadMe)
 |File And Stream|[go to File And Stream](https://bashar-owainat.github.io/reading-notes/dotNet/FileAndStream)
+|Classes|[go to classes](https://bashar-owainat.github.io/reading-notes/dotNet/classes)
 
 ## Code 201 - Foundations of Software Development (.NET)
 
