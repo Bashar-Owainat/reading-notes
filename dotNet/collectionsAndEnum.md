@@ -1,4 +1,4 @@
-# Collections
+# Collections  & enumeration
 I’ll summarise what I read in a Quiz form.
 
 ## There are two ways to manage groups of related objects, mention them.
@@ -54,6 +54,23 @@ It can be used for accessing collections.
 
 ## what are other uses for LINQ?
 Its queries provide grouping, filtering and ordering capabilities.
+
+
+
+## What is an enumeration type?
+It is a value type that’s defined by a group of constants of the integral numeric type.
+
+## how do we define an enumeration type?
+By using the keyword enum then specifying the enum members’ names.
+
+## what is the default type of enum members?
+They are of type int.
+
+## can we define a method inside an enumeration type? If no then how can we add functionality to it?
+No we cannot but if we want to add functionality to an enumeration type we can create an extension method.
+
+## what is System.Enum type?
+It is the abstract base class for all enumeration types.
  
          
 

@@ -1,4 +1,4 @@
-# Interface & enumeration
+# Interface
 I’ll summarise what I read in a Quiz form.
 
 ### What is an interface?
@@ -41,20 +41,6 @@ I’ll summarise what I read in a Quiz form.
 -	It is a must to use it when an interface inherits more than one base interface and that interface overrides a method that is implemented in a base interface.
 
 
-## What is an enumeration type?
-It is a value type that’s defined by a group of constants of the integral numeric type.
-
-## how do we define an enumeration type?
-By using the keyword enum then specifying the enum members’ names.
-
-## what is the default type of enum members?
-They are of type int.
-
-## can we define a method inside an enumeration type? If no then how can we add functionality to it?
-No we cannot but if we want to add functionality to an enumeration type we can create an extension method.
-
-## what is System.Enum type?
-It is the abstract base class for all enumeration types.
 
 
 
