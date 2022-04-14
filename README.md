@@ -76,6 +76,8 @@ This site includes the readings I did during the code Fellows training course
 |Collectioins & Enum|[go to collections](https://bashar-owainat.github.io/reading-notes/dotNet/collectionsAndEnum)
 |LINQ|[go to LINQ](https://bashar-owainat.github.io/reading-notes/dotNet/LINQ)
 |ERDS|[go to ERDS](https://bashar-owainat.github.io/reading-notes/dotNet/ERDS)
+|Entity Framework and API|[go to Entity Framework and API](https://bashar-owainat.github.io/reading-notes/dotNet/EntityFrameworkAPI)
+
 
 
 ## Code 201 - Foundations of Software Development (.NET)
