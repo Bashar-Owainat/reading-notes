@@ -77,6 +77,8 @@ This site includes the readings I did during the code Fellows training course
 |LINQ|[go to LINQ](https://bashar-owainat.github.io/reading-notes/dotNet/LINQ)
 |ERDS|[go to ERDS](https://bashar-owainat.github.io/reading-notes/dotNet/ERDS)
 |Entity Framework and API|[go to Entity Framework and API](https://bashar-owainat.github.io/reading-notes/dotNet/EntityFrameworkAPI)
+|Dependency Injection And Repository|[go to Dependency Injection And Repository](https://bashar-owainat.github.io/reading-notes/dotNet/DependencyInjectionAndRepository)
+
 
 
 
