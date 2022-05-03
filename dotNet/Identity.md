@@ -8,7 +8,7 @@ Users, passwords, profile information, roles, claims, tokens, email confirmation
 it provides a framework for managing and storing user accounts
 
 
-## why does Identity configured using a SQL server database?
+## why is Identity configured using a SQL server database?
 
 to store user names, passwords, and profile data.
 
