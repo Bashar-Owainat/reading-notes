@@ -85,8 +85,7 @@ This site includes the readings I did during the code Fellows training course
 |Identity|[go to Identity](https://bashar-owainat.github.io/reading-notes/dotNet/Identity)
 |Roles, Claims & JWT tokens|[go to Roles, Claims & JWT tokens](https://bashar-owainat.github.io/reading-notes/dotNet/RolesClaims&JWTtokens)
 |MVC|[go to MVC](https://bashar-owainat.github.io/reading-notes/dotNet/MVC)
-
-
+|ViewsController|[go to ViewsController](https://bashar-owainat.github.io/reading-notes/dotNet/ViewsController)
 
 
 
