@@ -87,5 +87,6 @@ This site includes the readings I did during the code Fellows training course
 |MVC|[go to MVC](https://bashar-owainat.github.io/reading-notes/dotNet/MVC)
 |ViewsController|[go to ViewsController](https://bashar-owainat.github.io/reading-notes/dotNet/ViewsController)
 |cookies|[go to cookies](https://bashar-owainat.github.io/reading-notes/dotNet/cookies)
+|hashtables|[go to hashtables](https://bashar-owainat.github.io/reading-notes/dotNet/hashtables)
 
 
