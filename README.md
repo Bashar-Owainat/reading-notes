@@ -90,5 +90,7 @@ This site includes the readings I did during the code Fellows training course
 |hashtables|[go to hashtables](https://bashar-owainat.github.io/reading-notes/dotNet/hashtables)
 |Azure Blobs|[go to Azure Blobs](https://bashar-owainat.github.io/reading-notes/dotNet/AzureBlobs)
 |Razor Pages|[go to Razor Pages](https://bashar-owainat.github.io/reading-notes/dotNet/RazorPages)
+|ViewComponents|[go to ViewComponents](https://bashar-owainat.github.io/reading-notes/dotNet/ViewComponents)
+
 
 
