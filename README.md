@@ -63,7 +63,7 @@ This site includes the readings I did during the code Fellows training course
 |---------|:---------
 |good-developer-mindset|[go to good-developer-mindset](https://bashar-owainat.github.io/reading-notes/dotNet/good-developer-mindset)
 
-## Code 102 - Intro to Software Development (.NET)
+## .NET
 | Topic  | link |
 |---------|:---------
 |Debugging|[go to Debugging](https://bashar-owainat.github.io/reading-notes/dotNet/debugging)
@@ -91,6 +91,6 @@ This site includes the readings I did during the code Fellows training course
 |Azure Blobs|[go to Azure Blobs](https://bashar-owainat.github.io/reading-notes/dotNet/AzureBlobs)
 |Razor Pages|[go to Razor Pages](https://bashar-owainat.github.io/reading-notes/dotNet/RazorPages)
 |ViewComponents|[go to ViewComponents](https://bashar-owainat.github.io/reading-notes/dotNet/ViewComponents)
-
+|SendGrid|[go to SendGrid](https://bashar-owainat.github.io/reading-notes/dotNet/SendGrid)
 
 
