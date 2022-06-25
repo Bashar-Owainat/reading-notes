@@ -92,5 +92,4 @@ This site includes the readings I did during the code Fellows training course
 |Razor Pages|[go to Razor Pages](https://bashar-owainat.github.io/reading-notes/dotNet/RazorPages)
 |ViewComponents|[go to ViewComponents](https://bashar-owainat.github.io/reading-notes/dotNet/ViewComponents)
 |SendGrid|[go to SendGrid](https://bashar-owainat.github.io/reading-notes/dotNet/SendGrid)
-
-
+|Graphs|[go to graphs](https://bashar-owainat.github.io/reading-notes/dotNet/Graphs)
