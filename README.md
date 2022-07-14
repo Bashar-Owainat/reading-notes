@@ -96,3 +96,4 @@ This site includes the readings I did during the code Fellows training course
 |Payment|[go to payment](https://bashar-owainat.github.io/reading-notes/dotNet/Payment)
 |Unity|[go to Unity](https://bashar-owainat.github.io/reading-notes/dotNet/Unity)
 |Unity2|[go to Unity2](https://bashar-owainat.github.io/reading-notes/dotNet/Unity2)
+|Ethics|[go to Ethics](https://bashar-owainat.github.io/reading-notes/dotNet/Ethics)
